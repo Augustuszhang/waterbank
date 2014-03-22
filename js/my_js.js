@@ -1,0 +1,16 @@
+$(document).ready(function(){
+		$("#top").click(function(){
+			$(this).animate({
+				opacity:"1"
+			},"3000");
+			$("#logo").delay("3000").animate({
+				right:"330px",
+				height:"65px",
+				width:"65px"
+			},"slow");
+			$("#top").delay("2550").animate({
+				height:"70px"
+			});
+		});
+		$("#top").trigger("click");
+	});

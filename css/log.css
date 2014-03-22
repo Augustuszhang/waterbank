@@ -1,0 +1,67 @@
+#log{
+	width:420px;
+	height:494px;
+	float:right;
+	font-family:Segoe UI;
+	font-size:13px;
+	}
+#log form{
+	width:320px;
+	height:370px;
+	padding-left:80px;
+	padding-top:60px;
+	}
+#log form input[type="text"],
+#log form select{
+	width:295px;
+	height:22px;
+	padding:4px 10px;
+	margin-bottom: 8px;
+	border:1px solid #CDCDCD;
+	outline: 0;
+	font-family:Segoe UI;
+	font-size:13px;
+	}	
+#log form select{
+	height:32px;
+	width:317px;
+	background:#fff;
+	padding:4px 7px;
+	font-family:Segoe UI;
+	font-size:13px;
+	}
+#log form span p{
+	font-size:20px;
+	margin-top:20px;
+	margin-bottom:10px;
+	}	
+#log form input[type="text"]:focus{
+	border:1px solid #0090C6;
+	}
+#log form input[type="submit"]{
+	background:#002366;
+	padding: 6px 13px 6px 13px;
+	border:0;
+	color:#fff;
+	font-family:Segoe UI;
+	font-size:13px;
+	}
+#log form #lable{
+	margin-bottom:20px;
+	font-family:Segoe UI;
+	font-size:13px;
+	}
+#log form input[type="checkbox"]{
+	height:19px;
+	width:19px;
+	margin-right:10px;
+	float:left;
+	}
+#log form a{
+	color:#0a66ff;
+	text-decoration:none;
+	}
+#log form a:hover{
+	color:#0090C6;
+	}
+	

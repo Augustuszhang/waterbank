@@ -1,0 +1,30 @@
+#fot{
+	padding-top:554px;
+	}
+#fot hr{
+	border:0;
+	height:1px;
+	background:#CDCDCD;
+	}
+#fot ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+#fot ul li {
+	float:left;
+	display:block;
+	padding-top:33px;
+	padding-left:20px;
+	font-size:13px;
+	color:#000;
+	font-family:Segoe UI
+	}
+#fot ul li a{
+	color:#000;
+	text-decoration:none;
+	}
+#fot ul li a:hover{
+	color:#0090C6;
+	}
